@@ -1,2 +1,2 @@
-pypdf
+pyPDF2
 streamlit
